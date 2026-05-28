@@ -4,7 +4,7 @@
 # THEME. The following 3 lines don't need to change
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1 #updated 23 Jul 2025
-repository: 'susannalles/Demo_DigitalArc/' # change this to your repository name
+repository: 'Demo_DigitalArc/' # change this to your repository name
 
 
 ##############################################
